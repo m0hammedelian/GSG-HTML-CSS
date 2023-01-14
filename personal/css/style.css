@@ -1,0 +1,51 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body{
+    background: rgb(174,175,238);
+    background: linear-gradient(87deg, rgba(174,175,238,1) 0%, rgba(148,233,161,1) 100%);
+}
+.container {
+margin: 50px 20px 0px 30px ;
+
+}
+.info {
+  display: flex;
+  justify-content: center;
+}
+.info p {
+  align-items: center;
+}
+.myphoto {
+  height: 115px;
+  width: 120px;
+  border-radius: 50%;
+}
+.phone {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.email {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.header-p {
+  margin-left: 15px;
+  margin-top: 20px;
+}
+.content {
+  margin-top: 30px;
+}
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.exp {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
